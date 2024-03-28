@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400&display=swap');
+
+body {
+    font-family: Rubik, sans-serif;
+    background-color: black;
+}
+
+h1 {
+    display: inline-block;
+    color: lime;
+    font-weight: 400;
+    margin: 0 36px 0 0;
+}
+
+h2, h3 {
+    color: lime;
+}
+
+img:hover {
+    opacity: 33%;
+}
+
+.active {
+    border-bottom: 1px solid lime;
+}
+
+.card {
+    width: 49.5%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.card a {
+    color: lime;
+    text-decoration: none;
+}
+
+.card img {
+    height: 400px;
+    width: 100%;
+    margin: 0 0 8px 0;
+    object-fit: cover;
+}
+
+.code-block {
+    color: lime;
+    font-size: 24px;
+    line-height: 1.25;
+}
+
+.code-block code {
+    display: block;
+}
+
+.contact {
+    margin: 75px 0 0 0;
+}
+
+.contact a {
+    color: lime;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.contact p {
+    color: lime;
+    font-size: 12px;
+    margin: 0;
+}
+
+.extra-info {
+    width: 33%;
+    min-width: 300px;
+    margin: 75px 150px 75px 150px;
+}
+
+.extra-info > p {
+    color: lime;
+    font-size: 20px;
+}
+
+.gallery {
+    padding: 16px;
+}
+
+.links {
+    display: inline-block;
+}
+
+.links a {
+    color: lime;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 8px;
+}
+
+.links ul {
+    padding: 0;
+}
+
+.links li {
+    display: inline-block;
+}
+
+.main-content {
+    min-width: 300px;
+    margin: 75px 150px 75px 150px;
+}
+
+.main-content code {
+    color: white;
+    font-family: "Source Code Pro", sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.main-content h2, h3 {
+    border-bottom: 2px solid lime;
+    border-left: 3px solid lime;
+    color: lime;
+    display: inline-block;
+    letter-spacing: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.main-content img {
+    width: 100%;
+}
+
+.main-content > p {
+    color: lime;
+    font-size: 24px;
+    line-height: 1.25;
+}
+
+.main-links {
+    color: gold;
+}
+
+.navbar {
+    margin: 32px;
+}
+
+.navbar img {
+    border-radius: 50%;
+    height: 10%;
+    width: 10%;
+    display: inline-block;
+}
+
+.overview li {
+    color: lime;
+    line-height: 1.25;
+}
+
+.overview > li {
+    list-style-type: none;
+    margin-bottom: 12px;
+    margin-top: 24px;
+}
+
+.overview ul {
+    list-style-type: disc;
+}
+
+ul.overview {
+    list-style-type:square;
+}
+
+.tagline {
+    border-bottom: 2px solid lime;
+    border-top: 2px solid lime;
+    display: inline-block;
+    padding: 5px 0;
+}
+
+#ctf p {
+    font-size: x-small;
+    visibility: hidden;
+}
+
+#ctf:hover p{
+    visibility: visible;
+}
+
+@media only screen and (max-width: 1000px) {
+    .card {
+        width: 100%;
+    }
+
+    .extra-info {
+        margin: 75px 150px 75px 75px;
+    }
+
+    .main-content {
+        min-width: 300px;
+        margin: 75px 150px 75px 75px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .card {
+        padding: 0;
+    }
+
+    .extra-info {
+        margin: 100px auto;
+    }
+
+    .main-content {
+        margin: 100px auto;
+    }
+}
