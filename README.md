@@ -28,6 +28,27 @@ This site shares:
 * 🧠 **Pedagogical Heritage** – The powerful ideas that shape our approach to learning
 * 🔐 **Ethical Hacking** – Children learn offensive “red team” cybersecurity skills by immersing themselves in a fictional world of espionage (by joining the Shadow Net Agency), gaining hands-on experience through Capture The Flag (CTF) style missions that build practical skills and awareness of cyber security
 
+>[!NOTE]
+>We are currently working on the problem of how to make `.ova` files available for the hands-on work in the ethical hacking cards so others can download and import them to their own labs for their own students...please bear with us :smiley:
+
+---
+
+### 🕵️‍♀️ Ethical Hacking & The Shadow Net Agency
+
+Step into the shadows — and learn to hack **for good**.
+
+In our Ethical Hacking section, learners join the **Shadow Net Agency**, a fictional but thrilling world of espionage and digital intrigue. Here, they train like real red team operatives: learning offensive cybersecurity tactics, solving hands-on capture-the-flag (CTF) missions, and using real tools and techniques — all in a safe, ethical and age-appropriate environment.
+
+This isn’t just a game. The world is facing a critical shortage of **skilled cybersecurity professionals**, especially in **offensive security** — the front line of defense against hackers, data breaches, and cyberattacks from hostile nation states. And the gap is even wider when it comes to **girls and women in cyber**.
+
+As computing pioneer **Karen Spärck Jones** warned:
+
+> *"It seems to be a problem, perhaps more with girls than boys, that you've got to get them hooked young enough, then keep them hooked. If they are not interested by the time they are 13, you've lost it."*
+
+We’re not going to lose them, and we hope you won't either.
+
+The Shadow Net Agency isn’t just training children — it’s **empowering the next generation of ethical hackers**, especially girls, to gain the confidence, skills, and mindset needed to protect systems, disrupt enemies, fight injustice, and challenge the digital status quo.
+
 ---
 
 ## ✨ Ethos
